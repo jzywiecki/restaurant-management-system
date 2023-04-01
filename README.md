@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-The project raport is made in Polish, but it involves diagram, 
+The project report is made in Polish, it includes diagrams and code fragments that illustrate the system's design and implementation.
 
 ## Overview
 
